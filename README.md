@@ -6,11 +6,12 @@ A simple CLI tool to check your Java code against the CS314 "Program Hygiene" gu
 
 1. Clone this repository.
 2. Open your terminal in the repo folder.
-3. Run the installer:
+3. do this: chmod +x install.sh
+4. Run the installer:
    ```bash
    ./install.sh
    ```
-4. Restart your terminal (or run the `source` command as instructed).
+5. Restart your terminal (or run the `source` command as instructed).
 
 ## Usage
 
