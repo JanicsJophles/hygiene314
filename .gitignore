@@ -1,0 +1,5 @@
+# Ignore the downloaded JAR file
+checkstyle-10.13.0-all.jar
+*.class
+*.log
+.DS_Store
